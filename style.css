@@ -109,3 +109,214 @@
     margin-top: 20px;
     margin-bottom: 50px;
 }
+
+/* Donate Section Code Finish */
+
+/* Donate Plan Section Code Start */
+
+.donate-plan-tittle{
+     text-align: center;
+}
+.donate-plan-tittle > h2{
+     font-size: 42px;
+     margin-top: 50px;
+}
+.donate-plan-tittle > p{
+     font-size: 18px;
+     width: 800px;
+     margin: auto;
+     padding-top: 20px;
+     color: gray;
+     line-height: 30px;
+}
+.plan-box-container{
+     display: flex;
+     width: 1100px;
+     margin: auto;
+     justify-content: space-between;
+     margin-top: 50px;
+     gap: 20px;
+     margin-bottom: 50px;
+}
+.plan-box {
+     background: #a9fae644;
+     padding: 80px 30px;
+     border-radius: 5px;
+}
+.plan-box > h3{
+     font-size: 23px;
+     padding: 15px 0;
+}
+.plan-box > p{
+     font-size: 16px;
+     color: gray;
+     line-height: 25px;
+     padding-right: 30px;
+}
+.plan-box-one {
+     background: #e95a722d;
+     padding: 80px 30px;
+     border-radius: 5px;
+}
+.plan-box-one > h3{
+     font-size: 23px;
+     padding: 15px 0;
+}
+.plan-box-one > p{
+     font-size: 16px;
+     color: gray;
+     line-height: 25px;
+     padding-right: 30px;
+}
+.plan-box-two {
+     background: #d7dd7c44;
+     padding: 80px 30px;
+     border-radius: 5px;
+}
+.plan-box-two > h3{
+     font-size: 23px;
+     padding: 15px 0;
+}
+.plan-box-two > p{
+     font-size: 16px;
+     color: gray;
+     line-height: 25px;
+     padding-right: 30px;
+}
+
+/* Donate Plan Section Code Finish */
+
+/* Text Image Section Code Start */
+
+.text-img-container{
+     display: flex;
+     width: 1100px;
+     margin: auto;
+     align-items: center;
+     margin-bottom: 50px;
+     margin-top: 100px;
+}
+.text-img > h2{
+     font-size: 43px;
+     padding-top: 40px;
+}
+.text-img > p{
+     font-size: 18px;
+     margin-top: 20px;
+     line-height: 30px;
+     padding-right: 250px;
+     color: gray;
+}
+.text-img > button{
+     margin-top: 20px;
+     border: none;
+     background: #ff3300d8;
+     color: #fff;
+     padding: 15px 25px;
+     font-size: 20px;
+     border-radius: 5px;
+}
+.img > img{
+     width: 450px;
+     height: 450px;
+     border-radius: 5px;
+     margin-right: 50px;
+}
+.text-img-two > h2{
+     font-size: 43px;
+     padding-top: 40px;
+     margin-left: 100px;
+}
+.text-img-two > p{
+     font-size: 18px;
+     margin-top: 20px;
+     line-height: 30px;
+     padding-right: 100px;
+     color: gray;
+     margin-left: 100px;
+}
+.text-img-two > button{
+     margin-top: 20px;
+     border: none;
+     background: #ff3300d8;
+     color: #fff;
+     padding: 15px 25px;
+     font-size: 20px;
+     border-radius: 5px;
+     margin-left: 100px;
+}
+.img-two > img{
+     width: 450px;
+     height: 450px;
+     border-radius: 5px;
+     margin-left: 50px;
+}
+/* Text Image Section Code Finish */
+
+/* Form Section Code Start */
+
+.form-container{
+     text-align: center;
+     width: 1000px;
+     margin: auto;
+}
+.form-container > h2{
+     font-size: 40px;
+     margin-top: 100px;
+}
+.form-container > p{
+     width: 700px;
+     margin: auto;
+     line-height: 25px;
+     font-size: 18px;
+     color: gray;
+     margin-top: 20px;
+}
+.single-form{
+     width: 700px;
+     margin: auto;
+     text-align: center;
+     margin-bottom: 100px;
+     margin-top: 60px;
+     background: #ffe2a2;
+     padding: 60px 0;
+}
+.single-form > .mail{ 
+     padding: 15px 10px;
+     width: 250px;
+     background: #d1d1d1;
+     border: none;
+     color: #4b4a4a;
+     border-radius: 5px 0 0 5px;
+}
+.single-form > .subscribe{ 
+     padding: 15px 10px;
+     width: 150px;
+     background: #fd5025d8;
+     border: none;
+     color: #fff;
+     font-size: 14px;
+     border-radius: 0 5px 5px 0;
+}
+
+/* Form Section Code Finish */
+
+/* Footer Section Code Start */
+
+footer{
+     text-align: center;
+     background: #000;
+     color: #fff;
+}
+footer > h2{
+     padding-top: 35px;
+     color: #ff6145;
+     font-size: 35px;
+     font-family: 'Lobster', cursive;
+}
+footer > p{
+     padding: 30px;
+     padding-bottom: 40px;
+     font-size: 13px;
+     font-weight: 100;
+}
