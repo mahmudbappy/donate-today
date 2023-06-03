@@ -1,0 +1,111 @@
+*{
+     margin: 0;
+     padding: 0;
+     font-family: 'Roboto', sans-serif;
+}
+
+/* Header Section Code Start */
+
+.header-container{
+     text-align: center;
+     padding: 200px 0 0 0;
+     background-image: linear-gradient(#00000025, #000000ef) ,url(img/donation5.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 69vh;
+}
+.header-container > h1{
+     font-size: 60px;
+     width: 700px;
+     margin: auto;
+     color: #fff;
+     padding: 10px 0;
+}
+.header-container > p{
+     font-size: 18px;
+     width: 750px;
+     margin: auto;
+     line-height: 30px;
+     font-weight: 400;
+     color: #e6e3e3;
+
+}
+.header-container > button{
+    font-size: 20px;
+    color: #fff;
+    background: #ff3300d8;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+
+/* Header Section Code Finish */
+
+/* Main Section Coode Staart */
+
+/* Donate Section Code Staart */
+
+.donate-container{
+     text-align: center;
+}
+.donate-container > h2{
+     font-size: 42px;
+     margin-top: 100px;
+}
+.donate-container > p{
+     font-size: 18px;
+     width: 700px;
+     margin: auto;
+     padding-top: 20px;
+     line-height: 30px;
+     color: gray;
+}
+.donate-box{
+     display: flex;
+     justify-content: center;
+}
+.donate-single-box{
+     margin-right: 20px;
+     margin-top: 40px;
+     background: #dcdcdc2c;
+     padding: 35px 15px;
+     font-size: 25px;
+     color: gray;
+     border-radius: 6px;
+}
+.donate-single-box-two{
+     margin-right: 10px;
+     margin-top: 30px;
+     background: #ff37051e;
+     padding: 35px 15px;
+     font-size: 25px;
+     color: gray;
+     border-radius: 6px;
+     border: 2px solid #f54519c2;
+}
+.donate-amouunt{
+     text-align: center;
+     margin-top: 40px;
+}
+.donate-amouunt > h6{
+     font-size: 18px;
+     color: #979595be;
+     font-weight: 200;
+     padding: 10px 0;
+}
+.donate-amouunt > hr{
+     width: 650px;
+     margin: auto;
+     color: #f3f3f3;
+}
+.donate-amouunt > button{
+    font-size: 20px;
+    color: #fff;
+    background: #ff3300d8;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 6px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
